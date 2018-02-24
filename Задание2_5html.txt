@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>язык “ролл€</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="moon">
+		<div class="left">
+			<h3>Ћуна</h3>
+			<p>
+				Ћуна? (лат. Luna) Ч естественный спутник «емли. —амый близкий к —олнцу спутник планеты, так как у ближайших к —олнцу планет, ћеркури€ и ¬енеры, спутников нет. ¬торой по €ркости[комм. 1] объект на земном небосводе после —олнца и п€тый по величине естественный спутник планеты —олнечной системы. —реднее рассто€ние между центрами «емли и Ћуны Ч 384 467 км (0,002 57 а. е., ~ 30 диаметров «емли).
+			</p>
+		</div>
+		<div class="right">
+			<img src="http://www.jpl.nasa.gov/spaceimages/images/wallpaper/PIA20829-640x350.jpg" alt="" class="moon-img">
+		</div>
+	</div>
+</body>
+</html>

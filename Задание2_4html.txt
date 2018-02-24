@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>язык “ролл€</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="main">
+		<img src="http://www.w3schools.com/css/trolltunga.jpg" alt="" class="main-img">
+		<h2>язык тролл€</h2>
+		
+		<p>язык “ролл€ (<span class="it">норв. Trolltunga</span>) Ч каменный выступ на горе —кьеггедаль, расположенной вблизи города ќдда в Ќорвегии, возвышающийс€ над озером –ингедалсватн на высоте <bold>700 метров</bold>.</p>
+		<p>—воей формой выступ напоминает €зык, за что и получил такое название. ѕредставл€ет собой отколовшийс€ кусок скалы, застывший на еЄ краю в горизонтальном положении.</p>
+	</div>
+</body>
+</html>
